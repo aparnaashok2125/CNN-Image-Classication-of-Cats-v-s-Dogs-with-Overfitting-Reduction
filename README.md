@@ -20,7 +20,7 @@ Used convolutional layers followed by max pooling and fully connected layers.
 
 Evaluated using training loss and accuracy.
 
-#CNN Model with Batch Normalization
+CNN Model with Batch Normalization
 
 Introduced Batch Normalization layers to normalize activations and reduce internal covariate shift.
 
